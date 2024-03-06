@@ -1,0 +1,99 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 290,
+        "y": 168
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Inventory",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 290,
+            "y": 360
+          },
+          "nodeIndex": "SalesOrderHeader",
+          "nodeLineageTag": "2c89d371-494d-4739-82f0-e25a167bafbf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 568,
+            "y": 2
+          },
+          "nodeIndex": "SalesOrderDetail",
+          "nodeLineageTag": "2314948d-b3ca-45e8-abc1-2fc7b386ed83",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 867,
+            "y": 278
+          },
+          "nodeIndex": "Product",
+          "nodeLineageTag": "da605190-7b9f-49ff-ae2e-cc99800f51e4",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1026,
+            "y": 80
+          },
+          "nodeIndex": "ProductCategory",
+          "nodeLineageTag": "4c2b2d72-a49c-4728-8702-70cc89395f5a",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1442,
+            "y": 74
+          },
+          "nodeIndex": "ProductSubcategory",
+          "nodeLineageTag": "75aa066b-516a-4bf9-83e1-b6368aaa0486",
+          "size": {
+            "height": 164,
+            "width": 234
+          },
+          "zIndex": 5
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
